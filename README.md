@@ -44,14 +44,30 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
+
+
 <img width="1915" height="1078" alt="image" src="https://github.com/user-attachments/assets/7315e274-b536-43b5-8f28-62b8176f22c8" />
+
+
+
 
 
 
 <img width="1912" height="1067" alt="image" src="https://github.com/user-attachments/assets/34858743-8302-4aa4-9fb4-cae800528ad8" />
 
 
+
+
+
+
+
 <img width="1913" height="1076" alt="image" src="https://github.com/user-attachments/assets/8f341e34-edd4-46fe-bbe5-34656c7ed071" />
+
+
+
+
+
+
 
 ________________________________________
 # Result
